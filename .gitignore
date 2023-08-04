@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#Twitter API
+.env
+
+#Windows
+*.bak
+
 # Distribution / packaging
 .Python
 build/
